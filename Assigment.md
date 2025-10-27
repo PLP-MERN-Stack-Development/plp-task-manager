@@ -214,6 +214,9 @@ Note: Replace {your-github-username} and {repository-name} with your actual GitH
 
 The deployment usually takes a few minutes. You can check the status in your repository's Actions tab.
 
+## Deployment Link
+https://github.com/PLP-MERN-Stack-Development/react-js-jsx-and-css-mastering-front-end-development-Hilda-Baraiywo/deployments/github-pages
+
 ## 📝 License
 This project is licensed under the MIT License.
 
