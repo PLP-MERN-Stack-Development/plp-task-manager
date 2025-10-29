@@ -2,9 +2,8 @@
   "name": "frontend",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://PLP-MERN-Stack-Development.github.io/https://github.com/Hilda-Baraiywo/react-js-jsx-and-css-mastering-front-end-development-Hilda-Baraiywo.git",
+  "homepage": "https://Hilda-Baraiywo.github.io/https://github.com/PLP-MERN-Stack-Development/plp-task-manager.git",
   "type": "module",
-  
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",

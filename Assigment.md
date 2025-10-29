@@ -176,14 +176,6 @@ npm install gh-pages --save-dev
 }
 ```
 
-3. Update vite.config.js
-```bash
-export default defineConfig({
-  base: '/{repository-name}/',
-  plugins: [react()]
-})
-```
-
 4. Deployment Steps
 ```bash
 # Initialize git if not already done
